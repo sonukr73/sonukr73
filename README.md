@@ -1,4 +1,4 @@
-<!-- ===================== -->
+<img width="1855" height="910" alt="image" src="https://github.com/user-attachments/assets/1b96b0c5-7a34-4db2-8afe-cbd143f705da" /><!-- ===================== -->
 <!-- 🌟 PROFESSIONAL HERO -->
 <!-- ===================== -->
 
@@ -13,8 +13,8 @@
 </div>
 
 <p align="center">
-<b>Final Year CSE Student | Java + DSA | Full-Stack Learner</b><br/>
-<i>Write clean code. Build real projects. Keep learning.</i>
+<b>Final Year CSE Student | Java + DSA | Full-Stack Developer (MERN)</b><br/>
+<i>Building scalable web apps | Clean code | Real-world projects </i>
 </p>
 
 ---
@@ -57,7 +57,7 @@
 ---
 
 ## 🏆 Achievements
-- ✅ Solved **380+ DSA problems on LeetCode**
+- ✅ Solved **500+ DSA problems on LeetCode**
 - 🏅 Secured **5th position** in college hackathon (team-based)
 - 🏏 Captain of college cricket team and won the **DPL tournament**
 
