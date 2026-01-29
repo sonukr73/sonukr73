@@ -1,12 +1,12 @@
-<img width="1855" height="910" alt="image" src="https://github.com/user-attachments/assets/1b96b0c5-7a34-4db2-8afe-cbd143f705da" /><!-- ===================== -->
+<!-- ===================== -->
 <!-- 🌟 PROFESSIONAL HERO -->
 <!-- ===================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Sonu%20Kumar&fontSize=52&fontAlignY=38&desc=Final%20Year%20CSE%20Student%20%7C%20Java%20%26%20DSA%20%7C%20Full-Stack%20Learner&descAlignY=62&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Sonu%20Kumar&fontSize=52&fontAlignY=38&desc=Final%20Year%20CSE%20Student%20%7C%20Java%20%26%20DSA%20%7C%20Full-Stack%20Developer&descAlignY=62&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=4F8CFF&center=true&vCenter=true&width=760&lines=Java+%7C+DSA+%7C+DBMS+%7C+OOP;Learning+Full-Stack+Development;Building+Projects+and+Improving+Daily" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=4F8CFF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+(MERN);Java+%7C+DSA+%7C+DBMS+%7C+OOP;Building+Scalable+Web+Applications;Clean+Code+%7C+Real-World+Projects" />
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 
@@ -14,7 +14,7 @@
 
 <p align="center">
 <b>Final Year CSE Student | Java + DSA | Full-Stack Developer (MERN)</b><br/>
-<i>Building scalable web apps | Clean code | Real-world projects </i>
+<i>Building scalable web apps • Clean code • Production-ready projects</i>
 </p>
 
 ---
@@ -24,11 +24,11 @@
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284094-9d13a7f4-79f4-4b48-91c5-7f69c6b2e33c.gif"/>
 
 - 🎓 Final year **Computer Science Engineering** student  
-- 💻 Strong foundation in **DSA, DBMS, OOP**  
-- 🌱 Currently learning **Full-Stack Development (React + Node.js)**  
-- 🚀 Interested in solving real-world problems using software  
+- 💻 Strong command over **DSA, DBMS, OOP**  
+- ⚙️ Building **Full-Stack Web Applications (MERN Stack)**  
+- 🚀 Passionate about solving **real-world problems using software**
 
-> **Objective:** Seeking opportunities to apply my skills and contribute to organizational growth.
+> 🎯 **Career Goal:** Full-Stack Developer role where I can build scalable products and grow with the organization.
 
 ---
 
@@ -51,34 +51,38 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode&perline=7" />
 </p>
 
 ---
 
 ## 🏆 Achievements
-- ✅ Solved **500+ DSA problems on LeetCode**
-- 🏅 Secured **5th position** in college hackathon (team-based)
-- 🏏 Captain of college cricket team and won the **DPL tournament**
+
+- ✅ Solved **500+ DSA problems** on LeetCode  
+- 🏅 **5th position** in college hackathon (team-based)  
+- 🏏 Captain of college cricket team — **DPL Tournament Winners**
 
 ---
 
 ## 💼 Projects
 
 ### 🏥 Hospital Management System
-- Tech: **React.js, HTML, CSS, JavaScript**
-- Built responsive platform: patient registration, appointment booking, doctor schedule & billing
-- Used **React Router DOM** and Hooks (**useState, useEffect**)
-- Repo: https://github.com/sonukr73/hospital%20management%20sysytem
+- **Tech:** React.js, JavaScript, HTML, CSS  
+- Full-featured system for patient registration, appointments & billing  
+- Implemented **React Router DOM** and Hooks  
+- 🔗 Repo: https://github.com/sonukr73/hospital-management-system
+
+---
 
 ### 🌐 Civic-Connect (Group Project)
-- Tech: **JWT, REST APIs, Web App**
-- Civic issue reporting system with secure JWT authentication and role-based access
+- **Tech:** Node.js, Express, MongoDB, JWT, REST APIs  
+- Civic issue reporting platform with **JWT authentication & role-based access**
+- Designed scalable backend APIs
 
 ---
 
 ## 🧠 Portfolio
-👉 **https://portfolio-blond-alpha-54.vercel.app/**
+🚀 **https://portfolio-blond-alpha-54.vercel.app/**
 
 ---
 
